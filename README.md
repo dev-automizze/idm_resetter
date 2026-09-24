@@ -1,0 +1,3 @@
+---bash
+tools.automizze.us
+---
